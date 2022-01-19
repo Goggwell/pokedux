@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 62.5%;
+}
+
+p {
+  font-weight: $font-weight-body;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: $font-weight-title;
+}
